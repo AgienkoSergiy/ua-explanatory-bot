@@ -1,0 +1,9 @@
+
+telegram:
+    # the bot is owned by Sergiy Agienko, bot name is @UaExplanatoryBot
+    token: 520613059:AAG9lXyexKQvSNX_HNPnS1bjBSIFdZQXlBA
+    name: Explain Word UA
+
+explanatory-service:
+  sum-in-ua:
+    url: 'http://sum.in.ua/?swrd='
